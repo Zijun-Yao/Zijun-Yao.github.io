@@ -9,7 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-## Selected Publications
 
 1. **SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation**  
    <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Weijian Qi\*, Liangming Pan, Shulin Cao, Linmei Hu, Weichuan Liu, Lei Hou, Juanzi Li  
@@ -47,7 +46,6 @@ author_profile: true
    <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang, Zelin Dai  
    *ACL-IJCNLP, 2021.* \[<a href="https://arxiv.org/abs/2105.14467">arXiv:2105.14467</a>\]
 
-## Other Publications
 
 10. **LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking**  
     Amy Xin\*, Yunjia Qi\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Fangwei Zhu, Kaisheng Zeng, Xu Bin, Lei Hou, Juanzi Li  
