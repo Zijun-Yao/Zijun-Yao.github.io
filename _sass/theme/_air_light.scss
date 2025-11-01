@@ -15,7 +15,8 @@ $text                       : #222831;
 $link                       : #393e46;
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
-$footer                     : $primary-color;
+/* $footer                     : $primary-color; */
+$footer                     : #94a3a8
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
