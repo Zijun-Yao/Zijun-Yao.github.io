@@ -7,7 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+
+### About me
+
+I am a Ph.D. candidate in the **Knowledge Engineering Group (KEG)**, Department of Computer Science and Technology, **Tsinghua University** (Sep 2023 – Jun 2026, expected), advised by **Prof. Juanzi Li**. I received my M.Eng. from Tsinghua University (2020–2023) and my B.Eng. in Computer Science from **Beijing University of Posts and Telecommunications** (2016–2020, rank 1/321).
+
+My research sits at the intersection of **large language models (LLMs)**, **knowledge**, and **reasoning**. I have worked as a research intern at **Zhipu.AI** (since Sep 2021) on building and post-training LLMs, and I was a **visiting scholar** at the **NExT++ Research Centre, National University of Singapore** (Mar 2025 – Sep 2025) hosted by **Prof. Tat-Seng Chua**. Earlier, I spent time in KEG-Tsinghua, Qiyuan Lab, and BUPT on topics spanning knowledge graphs, graph learning, and game-theoretic modeling on networks.
+
+You can reach me at **yaozj20@mails.tsinghua.edu.cn** and find my publications on **[Google Scholar](https://scholar.google.com/citations?user=B4LmHSUAAAAJ)**.
+
+---
+
+### Research directions
+
+**1) Science of LLMs**  
+I aim to build a *systematic science* of LLMs that connects internal model mechanics to observable behaviors.
+
+- **Microscopic perspective:** Probe how hidden states, neurons, and sparse features arise and correspond to linguistic and reasoning behaviors; develop tooling (e.g., sparse autoencoders) to interpret and *steer* model internals.  
+- **Macroscopic perspective:** Study how architectural and training choices (data, objectives, RL, distillation) shape emergent capabilities such as implicit reasoning and robustness.
+
+**2) LLMs for Science**  
+I explore how LLMs can *assist and automate* the scientific workflow.
+
+- **Knowledge-intensive QA and retrieval:** Combine parametric and retrieved knowledge for fact-seeking, multi-hop reasoning, and conflict resolution.  
+- **Agentic research assistants:** Build multi-agent systems and evaluation protocols for end-to-end scientific inquiry (problem formulation → evidence gathering → reasoning → reporting).  
+- **Learning from real-world feedback:** Use verifiable signals and reward models to help LLMs improve their research skills and factual reliability over time.
+
+---
+
+*Last updated: Nov 2025.*
+
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +85,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
