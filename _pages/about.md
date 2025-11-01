@@ -61,6 +61,43 @@ I explore how LLMs can *assist and automate* the scientific workflow.
         \textcolor[RGB]{100,0,0}{\textbf{\textit{Zijun Yao}}}, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang, Zelin Dai. In \textit{ACL-IJCNLP}, 2021.
 \end{enumerate} -->
 
+1. **SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation**  
+   **Zijun Yao**\*, Weijian Qi\*, Liangming Pan, Shulin Cao, Linmei Hu, Weichuan Liu, Lei Hou, Juanzi Li  
+   *ACL, 2025.* **Oral Presentation (2.9% in Submission)**
+
+2. **VisKoP: Visual Knowledge oriented Programming for Interactive Knowledge Base Question Answering**  
+   **Zijun Yao**\*, Yuanyong Chen\*, Xin Lv, Shulin Cao, Amy Xin, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li  
+   *Demo of ACL, 2023.* **Best Demo Award**
+
+3. **KoRC: Knowledge oriented Reading Comprehension Benchmark for Deep Text Understanding**  
+   **Zijun Yao**\*, Yantao Liu\*, Xin Lv, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li  
+   *Findings of ACL, 2023.*
+
+4. **Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**  
+   Yantao Liu\*, **Zijun Yao**\*, Xin Lv, Yuchen Fan, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li  
+   *LREC-COLING, 2024.*
+
+5. **RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**  
+   Yantao Liu, **Zijun Yao**, Rui Min, Yixin Cao, Lei Hou, Juanzi Li  
+   *ICLR, 2025.* **Oral Presentation (1.2% in Submission)**
+
+6. **Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking**  
+   Xiaokang Zhang\*, **Zijun Yao**\*, Jing Zhang, Kaifeng Yun, Jifan Yu, Juanzi Li, Jie Tang  
+   *ACL, 2024.*
+
+7. **LinguaLens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder**  
+   Yi Jing, **Zijun Yao**, Lingxu Ran, Hongzhu Guo, Xiaozhi Wang, Lei Hou, Juanzi Li  
+   *EMNLP, 2025.*
+
+8. **How does Transformer Learn Implicit Reasoning?**  
+   Jiaran Ye\*, **Zijun Yao**\*, Zhidian Huang, Liangming Pan, Jinxin Liu, Yushi Bai, Amy Xin, Liu Weichuan, Xiaoyin Che, Lei Hou, Juanzi Li  
+   *NeurIPS, 2025.* **Spotlight (3.5% in Submission)**
+
+9. **Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making**  
+   **Zijun Yao**, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang, Zelin Dai  
+   *ACL-IJCNLP, 2021.*
+
+<sup>\* Equal contribution</sup>
 
 
 
