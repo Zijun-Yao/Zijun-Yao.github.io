@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-### About me
 
 I am a Ph.D. candidate in the **Knowledge Engineering Group (KEG)**, Department of Computer Science and Technology, **Tsinghua University** (Sep 2023 – Jun 2026, expected), advised by **Prof. Juanzi Li**. I received my M.Eng. from Tsinghua University (2020–2023) and my B.Eng. in Computer Science from **Beijing University of Posts and Telecommunications** (2016–2020, rank 1/321).
 
@@ -18,7 +16,7 @@ You can reach me at **yaozj20@mails.tsinghua.edu.cn** and find my publications o
 
 ---
 
-### Research directions
+## Research directions
 
 **1) Science of LLMs**  
 I aim to build a *systematic science* of LLMs that connects internal model mechanics to observable behaviors.
