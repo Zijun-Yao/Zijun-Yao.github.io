@@ -36,10 +36,8 @@ I explore how LLMs can *assist and automate* the scientific workflow.
 - **Learning from real-world feedback:** Use verifiable signals and reward models to help LLMs improve their research skills and factual reliability over time.
 
 
-## Selected publications
 
-
-
+**Selected publications**
 
 [1] **SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation**  
    <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Weijian Qi\*, Liangming Pan, Shulin Cao, Linmei Hu, Weichuan Liu, Lei Hou, Juanzi Li  
