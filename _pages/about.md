@@ -35,7 +35,30 @@ I explore how LLMs can *assist and automate* the scientific workflow.
 - **Agentic research assistants:** Build multi-agent systems and evaluation protocols for end-to-end scientific inquiry (problem formulation → evidence gathering → reasoning → reporting).  
 - **Learning from real-world feedback:** Use verifiable signals and reward models to help LLMs improve their research skills and factual reliability over time.
 
----
+
+## Selected publications
+
+- **SeaKR: Self-aware Knowledge Retrieval for Adaptive RAG**  
+  **Zijun Yao***, Weijian Qi*, Liangming Pan, Shulin Cao, Linmei Hu, Weichuan Liu, Lei Hou, Juanzi Li. **ACL 2025** (Oral, 2.9%).  
+
+- **RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**  
+  Yantao Liu, **Zijun Yao**, Rui Min, Yixin Cao, Lei Hou, Juanzi Li. **ICLR 2025** (Oral, 1.2%).  
+
+- **How does Transformer Learn Implicit Reasoning?**  
+  Jiaran Ye*, **Zijun Yao***, Zhidian Huang, Liangming Pan, Jinxin Liu, Yushi Bai, Amy Xin, Weichuan Liu, Xiaoyin Che, Lei Hou, Juanzi Li. **NeurIPS 2025** (Spotlight, 3.5%).  
+
+- **LinguaLens: Towards Interpreting Linguistic Mechanisms of LLMs via Sparse Auto-Encoder**  
+  Yi Jing, **Zijun Yao**, Lingxu Ran, Hongzhu Guo, Xiaozhi Wang, Lei Hou, Juanzi Li. **EMNLP 2025**.  
+
+- **Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking**  
+  Xiaokang Zhang*, **Zijun Yao***, Jing Zhang, Kaifeng Yun, Jifan Yu, Juanzi Li, Jie Tang. **ACL 2024**.  
+
+- **VisKoP: Visual Knowledge-oriented Programming for Interactive KBQA**  
+  **Zijun Yao***, Yuanyong Chen*, Xin Lv, Shulin Cao, Amy Xin, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li. **ACL 2023 (Demo)** — **Best Demo Award**.  
+
+- **KoLA: Carefully Benchmarking World Knowledge of Large Language Models**  
+  Jifan Yu*, Xiaozhi Wang*, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, **Zijun Yao**, …, Jie Tang, Juanzi Li. **ICLR 2024**.  
+
 
 *Last updated: Nov 2025.*
 
