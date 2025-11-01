@@ -36,42 +36,42 @@ I explore how LLMs can *assist and automate* the scientific workflow.
 - **Learning from real-world feedback:** Use verifiable signals and reward models to help LLMs improve their research skills and factual reliability over time.
 
 
-
 **Selected publications**
 
-[1] **SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation**  
+
+1. **SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation**  
    <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Weijian Qi\*, Liangming Pan, Shulin Cao, Linmei Hu, Weichuan Liu, Lei Hou, Juanzi Li  
    *ACL, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation (2.9% in Submission)**</span>
 
-[2] **VisKoP: Visual Knowledge oriented Programming for Interactive Knowledge Base Question Answering**  
+2. **VisKoP: Visual Knowledge oriented Programming for Interactive Knowledge Base Question Answering**  
    <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Yuanyong Chen\*, Xin Lv, Shulin Cao, Amy Xin, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li  
    *Demo of ACL, 2023.* <span style="color: rgb(160,0,0)">**Best Demo Award**</span>
 
-[3] **KoRC: Knowledge oriented Reading Comprehension Benchmark for Deep Text Understanding**  
+3. **KoRC: Knowledge oriented Reading Comprehension Benchmark for Deep Text Understanding**  
    <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Yantao Liu\*, Xin Lv, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li  
    *Findings of ACL, 2023.*
 
-[4] **Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**  
+4. **Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**  
    Yantao Liu\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Xin Lv, Yuchen Fan, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li  
    *LREC-COLING, 2024.*
 
-[5] **RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**  
+5. **RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**  
    Yantao Liu, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Rui Min, Yixin Cao, Lei Hou, Juanzi Li  
-   *ICLR, 2025.* <span style="color: rgb(31, 31, 31)">**Oral Presentation (1.2% in Submission)**</span>
+   *ICLR, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation (1.2% in Submission)**</span>
 
-[6] **Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking**  
+6. **Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking**  
    Xiaokang Zhang\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Jing Zhang, Kaifeng Yun, Jifan Yu, Juanzi Li, Jie Tang  
    *ACL, 2024.*
 
-[7] **LinguaLens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder**  
+7. **LinguaLens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder**  
    Yi Jing, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Lingxu Ran, Hongzhu Guo, Xiaozhi Wang, Lei Hou, Juanzi Li  
    *EMNLP, 2025.*
 
-[8] **How does Transformer Learn Implicit Reasoning?**  
+8. **How does Transformer Learn Implicit Reasoning?**  
    Jiaran Ye\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Zhidian Huang, Liangming Pan, Jinxin Liu, Yushi Bai, Amy Xin, Liu Weichuan, Xiaoyin Che, Lei Hou, Juanzi Li  
    *NeurIPS, 2025.* <span style="color: rgb(160,0,0)">**Spotlight (3.5% in Submission)**</span>
 
-[9] **Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making**  
+9. **Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making**  
    <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang, Zelin Dai  
    *ACL-IJCNLP, 2021.*
 
