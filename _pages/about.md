@@ -38,26 +38,32 @@ I explore how LLMs can *assist and automate* the scientific workflow.
 
 ## Selected publications
 
-- **SeaKR: Self-aware Knowledge Retrieval for Adaptive RAG**  
-  **Zijun Yao***, Weijian Qi*, Liangming Pan, Shulin Cao, Linmei Hu, Weichuan Liu, Lei Hou, Juanzi Li. **ACL 2025** (Oral, 2.9%).  
 
-- **RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**  
-  Yantao Liu, **Zijun Yao**, Rui Min, Yixin Cao, Lei Hou, Juanzi Li. **ICLR 2025** (Oral, 1.2%).  
 
-- **How does Transformer Learn Implicit Reasoning?**  
-  Jiaran Ye*, **Zijun Yao***, Zhidian Huang, Liangming Pan, Jinxin Liu, Yushi Bai, Amy Xin, Weichuan Liu, Xiaoyin Che, Lei Hou, Juanzi Li. **NeurIPS 2025** (Spotlight, 3.5%).  
+<!-- \begin{enumerate}[itemsep=-1pt,topsep=0pt,leftmargin=20pt,label={[\arabic*]},ref=\arabic*]
+    \item\label{seakr} \textbf{SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation} \\ 
+        \textcolor[RGB]{100,0,0}{\textbf{\textit{Zijun Yao$^*$}}}, Weijian Qi$^*$, Liangming Pan, Shulin Cao, Linmei Hu, Weichuan Liu, Lei Hou, Juanzi Li. In \textit{ACL}, 2025. \textcolor[RGB]{160,0,0}{\textit{\textbf{Oral Presentation (2.9\% in Submission)}}}
+    \item\label{viskop} \textbf{VisKoP: Visual Knowledge oriented Programming for Interactive Knowledge Base Question Answering} \\
+        \textcolor[RGB]{100,0,0}{\textbf{\textit{Zijun Yao$^*$}}}, Yuanyong Chen$^*$, Xin Lv, Shulin Cao, Amy Xin, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li. In \textit{Demo of ACL}, 2023. \textcolor[RGB]{160,0,0}{\textit{\textbf{Best Demo Award}}}
+    \item\label{korc}  \textbf{KoRC: Knowledge oriented Reading Comprehension Benchmark for Deep Text Understanding} \\ 
+        \textcolor[RGB]{100,0,0}{\textbf{\textit{Zijun Yao$^*$}}}, Yantao Liu$^*$, Xin Lv, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li. In \textit{Findings of ACL}, 2023.
+    \item\label{knot} \textbf{Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models} \\ 
+        Yantao Liu$^*$, \textcolor[RGB]{100,0,0}{\textbf{\textit{Zijun Yao$^*$}}}, Xin Lv, Yuchen Fan, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li. In \textit{LREC-COLING}, 2024.
+    \item\label{rmbench} \textbf{RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style} \\
+        Yantao Liu, \textcolor[RGB]{100,0,0}{\textbf{\textit{Zijun Yao}}}, Rui Min, Yixin Cao, Lei Hou, Juanzi Li. In \textit{ICLR}, 2025. \textcolor[RGB]{160,0,0}{\textit{\textbf{Oral Presentation (1.2\% in Submission)}}}
+    \item\label{transferable} \textbf{Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking} \\
+        Xiaokang Zhang$^*$, \textcolor[RGB]{100,0,0}{\textbf{\textit{Zijun Yao$^*$}}}, Jing Zhang, Kaifeng Yun, Jifan Yu, Juanzi Li, Jie Tang. In \textit{ACL}, 2024.
+    \item\label{lingualens} \textbf{LinguaLens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder} \\
+        Yi Jing, \textcolor[RGB]{100,0,0}{\textbf{\textit{Zijun Yao}}}, Lingxu Ran, Hongzhu Guo, Xiaozhi Wang, Lei Hou, Juanzi Li. In \textit{EMNLP}, 2025.
+    \item\label{implicit} \textbf{How does Transformer Learn Implicit Reasoning?} \\
+        Jiaran Ye$^*$, \textcolor[RGB]{100,0,0}{\textbf{\textit{Zijun Yao$^*$}}}, Zhidian Huang, Liangming Pan, Jinxin Liu, Yushi Bai, Amy Xin, Liu Weichuan, Xiaoyin Che, Lei Hou, Juanzi Li. In \textit{NeurIPS} 2025. \textcolor[RGB]{160,0,0}{\textit{\textbf{Spotlight (3.5\% in Submission)}}}
+    \item \textbf{Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making} \\
+        \textcolor[RGB]{100,0,0}{\textbf{\textit{Zijun Yao}}}, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang, Zelin Dai. In \textit{ACL-IJCNLP}, 2021.
+\end{enumerate} -->
 
-- **LinguaLens: Towards Interpreting Linguistic Mechanisms of LLMs via Sparse Auto-Encoder**  
-  Yi Jing, **Zijun Yao**, Lingxu Ran, Hongzhu Guo, Xiaozhi Wang, Lei Hou, Juanzi Li. **EMNLP 2025**.  
 
-- **Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking**  
-  Xiaokang Zhang*, **Zijun Yao***, Jing Zhang, Kaifeng Yun, Jifan Yu, Juanzi Li, Jie Tang. **ACL 2024**.  
 
-- **VisKoP: Visual Knowledge-oriented Programming for Interactive KBQA**  
-  **Zijun Yao***, Yuanyong Chen*, Xin Lv, Shulin Cao, Amy Xin, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li. **ACL 2023 (Demo)** — **Best Demo Award**.  
 
-- **KoLA: Carefully Benchmarking World Knowledge of Large Language Models**  
-  Jifan Yu*, Xiaozhi Wang*, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, **Zijun Yao**, …, Jie Tang, Juanzi Li. **ICLR 2024**.  
 
 
 *Last updated: Nov 2025.*
