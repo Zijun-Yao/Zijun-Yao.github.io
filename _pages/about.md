@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University (Sep 2023 – Jun 2026, expected), advised by Prof. Juanzi Li. 
-I received in Computer Science and Technology from Beijing University of Posts and Telecommunications.
+I am a Ph.D. candidate in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University (THU, Sep 2023 – Jun 2026, expected), advised by Prof. Juanzi Li. 
+Before that, I finished my education as a master student in THU-KEG, also advised by Prof. Juanzi Li from Sep 2020 to Jun 2023.
+I received my bachelor's degree in Computer Science and Technology from Beijing University of Posts and Telecommunications (BUPT, Sep 2016 – Jun 2020).
 
 My research sits at the intersection of **large language models (LLMs)**, **knowledge engineering**, and **reasoning**. 
 I have worked as a research intern at Zhipu.AI on building and post-training LLMs, and I was a visiting scholar at the NExT++ Research Centre, National University of Singapore (Mar 2025 – Sep 2025) hosted by Prof. Tat-Seng Chua. 
@@ -18,7 +19,7 @@ Earlier, I spent time in KEG-Tsinghua, Qiyuan Lab, and BUPT on topics spanning k
 You can find my publications on **[Google Scholar](https://scholar.google.com/citations?user=B4LmHSUAAAAJ)**.
 
 
-## Research directions
+## Detailed Research Interests
 
 I am dedicated to exploring how to (1) establish the science of large language models (Science of LLMs); and (2) enable LLMs with knowledge and reasoning skills to solve scientific tasks (LLMs for Science).
 
@@ -53,7 +54,7 @@ I explore how LLMs can *assist and automate* the scientific workflow.
 
 4. **Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**  
    Yantao Liu\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Xin Lv, Yuchen Fan, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li  
-   *LREC-COLING, 2024.*
+   *LREC-COLING, 2024.* \[<a href="https://arxiv.org/abs/2405.11876">arXiv:2405.11876</a>\]
 
 5. **RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**  
    Yantao Liu, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Rui Min, Yixin Cao, Lei Hou, Juanzi Li  
@@ -61,7 +62,7 @@ I explore how LLMs can *assist and automate* the scientific workflow.
 
 6. **Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking**  
    Xiaokang Zhang\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Jing Zhang, Kaifeng Yun, Jifan Yu, Juanzi Li, Jie Tang  
-   *ACL, 2024.*
+   *ACL, 2024.* \[<a href="https://arxiv.org/abs/2405.11874">arXiv:2405.11874</a>\]
 
 7. **LinguaLens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder**  
    Yi Jing, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Lingxu Ran, Hongzhu Guo, Xiaozhi Wang, Lei Hou, Juanzi Li  
@@ -73,7 +74,7 @@ I explore how LLMs can *assist and automate* the scientific workflow.
 
 9. **Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making**  
    <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang, Zelin Dai  
-   *ACL-IJCNLP, 2021.*
+   *ACL-IJCNLP, 2021.* \[<a href="https://arxiv.org/abs/2105.14467">arXiv:2105.14467</a>\]
 
 <sup>\* Equal contribution</sup>
 
