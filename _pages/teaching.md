@@ -38,10 +38,10 @@ I also have the privilege of working with several exceptionally talented student
 
 ### Former Students
 
-1. **Yantao Liu** (BUPT 2021, CAS-ICT 2022 -- 2024): Knowledge integrated reasoning with LLMs; Reward modeling for reinforcement learning. Now Qwen researcher.
-2. **Zhicheng Lee** (THU 2023 -- 2025): Knowledge base question answering. Now Zhipu.AI researcher.
-3. **Weijian Qi** (XJTU 2024): Retrieval-augmented Generation. Now OSU, master student.
-4. **Zeyao Ma** (RUC 2023): Evaluating LLMs with ranking. Now RUC, master student.
-5. **Xiaokang Zhang** (RUC 2023 -- 2024): Factual error detection in LLMs. Now Deepseek researcher.
-6. **Yuchen Fan** (BUPT 2023 -- 2024): LLMs generation evaluation. Now SJTU, Ph.D student.
+1. **[Yantao Liu](https://github.com/RicardoL1u)** (BUPT 2021, CAS-ICT 2022 -- 2024): Knowledge integrated reasoning with LLMs; Reward modeling for reinforcement learning. Now Qwen researcher.
+2. **[Zhicheng Lee](https://zhicheng0326.github.io/)** (THU 2023 -- 2025): Knowledge base question answering. Now Zhipu.AI researcher.
+3. **[Weijian Qi](https://scholar.google.com/citations?user=XeI20iUAAAAJ)** (XJTU 2024): Retrieval-augmented Generation. Now OSU, master student.
+4. **[Zeyao Ma](https://scholar.google.com/citations?user=N0DI51ZfPdkC)** (RUC 2023): Evaluating LLMs with ranking. Now RUC, master student.
+5. **[Xiaokang Zhang](https://scholar.google.com/citations?user=roxlk84AAAAJ)** (RUC 2023--2024): Factual error detection in LLMs. Now Deepseek researcher.
+6. **[Yuchen Fan](https://yuchenfan48.github.io/)** (BUPT 2023--2024): LLMs generation evaluation. Now SJTU, Ph.D student.
 7. **Yuanyong Chen** (THU 2022): Knowledge-base Question Answering. Now THU, master student.
