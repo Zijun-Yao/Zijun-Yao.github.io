@@ -8,11 +8,14 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the **Knowledge Engineering Group (KEG)**, Department of Computer Science and Technology, **Tsinghua University** (Sep 2023 – Jun 2026, expected), advised by **Prof. Juanzi Li**. I received my M.Eng. from Tsinghua University (2020–2023) and my B.Eng. in Computer Science from **Beijing University of Posts and Telecommunications** (2016–2020, rank 1/321).
+I am a Ph.D. candidate in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University (Sep 2023 – Jun 2026, expected), advised by Prof. Juanzi Li. 
+I received in Computer Science and Technology from Beijing University of Posts and Telecommunications.
 
-My research sits at the intersection of **large language models (LLMs)**, **knowledge**, and **reasoning**. I have worked as a research intern at **Zhipu.AI** (since Sep 2021) on building and post-training LLMs, and I was a **visiting scholar** at the **NExT++ Research Centre, National University of Singapore** (Mar 2025 – Sep 2025) hosted by **Prof. Tat-Seng Chua**. Earlier, I spent time in KEG-Tsinghua, Qiyuan Lab, and BUPT on topics spanning knowledge graphs, graph learning, and game-theoretic modeling on networks.
+My research sits at the intersection of **large language models (LLMs)**, **knowledge engineering**, and **reasoning**. 
+I have worked as a research intern at Zhipu.AI on building and post-training LLMs, and I was a visiting scholar at the NExT++ Research Centre, National University of Singapore (Mar 2025 – Sep 2025) hosted by Prof. Tat-Seng Chua. 
+Earlier, I spent time in KEG-Tsinghua, Qiyuan Lab, and BUPT on topics spanning knowledge graphs, graph learning, and evolutionary game theory on networks.
 
-You can reach me at **yaozj20@mails.tsinghua.edu.cn** and find my publications on **[Google Scholar](https://scholar.google.com/citations?user=B4LmHSUAAAAJ)**.
+You can find my publications on **[Google Scholar](https://scholar.google.com/citations?user=B4LmHSUAAAAJ)**.
 
 ---
 
