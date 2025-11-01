@@ -17,14 +17,15 @@ Earlier, I spent time in KEG-Tsinghua, Qiyuan Lab, and BUPT on topics spanning k
 
 You can find my publications on **[Google Scholar](https://scholar.google.com/citations?user=B4LmHSUAAAAJ)**.
 
----
 
 ## Research directions
+
+I am dedicated to exploring how to (1)~establish the science of large language models (Science of LLMs); and (2)~enable LLMs with knowledge and reasoning skills to solve scientific tasks (LLMs for Science).
 
 **1) Science of LLMs**  
 I aim to build a *systematic science* of LLMs that connects internal model mechanics to observable behaviors.
 
-- **Microscopic perspective:** Probe how hidden states, neurons, and sparse features arise and correspond to linguistic and reasoning behaviors; develop tooling (e.g., sparse autoencoders) to interpret and *steer* model internals.  
+- **Microscopic perspective:** Probe how hidden states, neurons, and sparse features arise and correspond to specific model behaviors; develop tools (e.g., sparse autoencoders) to interpret and **steer** model internals.  
 - **Macroscopic perspective:** Study how architectural and training choices (data, objectives, RL, distillation) shape emergent capabilities such as implicit reasoning and robustness.
 
 **2) LLMs for Science**  
