@@ -14,7 +14,7 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "Zijun Yao / 姚子俊"
 title_separator          : "-"
 # name                     : &name "Your Name"
-name                     : &name "Zijun Yao（姚子俊）"
+name                     : &name "Zijun Yao 姚子俊"
 # description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 description              : &description "Zijun Yao's Academic Main Page"
 url                      : "https://zijun-yao.github.io"
