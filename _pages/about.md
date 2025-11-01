@@ -20,7 +20,7 @@ You can find my publications on **[Google Scholar](https://scholar.google.com/ci
 
 ## Research directions
 
-I am dedicated to exploring how to (1)~establish the science of large language models (Science of LLMs); and (2)~enable LLMs with knowledge and reasoning skills to solve scientific tasks (LLMs for Science).
+I am dedicated to exploring how to (1) establish the science of large language models (Science of LLMs); and (2) enable LLMs with knowledge and reasoning skills to solve scientific tasks (LLMs for Science).
 
 **1) Science of LLMs**  
 I aim to build a *systematic science* of LLMs that connects internal model mechanics to observable behaviors.
