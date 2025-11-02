@@ -59,11 +59,11 @@ author_profile: true
 
 12. **Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**  
     Yantao Liu\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Xin Lv, Yuchen Fan, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li  
-    *LREC-COLING, 2024.* \[<a href="https://arxiv.org/abs/2405.11876">arXiv:2405.11876</a>\]
+    *LREC-COLING, 2024.* \[<a href="https://arxiv.org/abs/2405.11876">arXiv</a>\]
 
 13. **Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking**  
     Xiaokang Zhang\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Jing Zhang, Kaifeng Yun, Jifan Yu, Juanzi Li, Jie Tang  
-    *ACL, 2024.* \[<a href="https://arxiv.org/abs/2405.11874">arXiv:2405.11874</a>\]
+    *ACL, 2024.* \[<a href="https://arxiv.org/abs/2405.11874">arXiv</a>\]
 
 14. **A General Neural-symbolic Architecture for Knowledge-intensive Complex Reasoning**  
     Shulin Cao\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Lei Hou, Juanzi Li  
@@ -133,7 +133,7 @@ author_profile: true
 
 29. **Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making**  
     <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang, Zelin Dai  
-    *ACL-IJCNLP, 2021.* \[<a href="https://arxiv.org/abs/2105.14467">arXiv:2105.14467</a>\]
+    *ACL-IJCNLP, 2021.* \[<a href="https://arxiv.org/abs/2105.14467">arXiv</a>\] | \[<a href="https://transirius.github.io/files/kat.pdf">slides</a>\]
 
 30. **MOOCCubeX: A Large Knowledge-centered Repository for Adaptive Learning in MOOCs**  
     Jifan Yu, Yuquan Wang, Qingyang Zhong, Gan Luo, Yiming Mao, Kai Sun, Wenzheng Feng, Wei Xu, Shulin Cao, Kaisheng Zeng, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Lei Hou, Yankai Lin, Peng Li, Jie Zhou, Bin Xu, Juanzi Li, Jie Tang, Maosong Sun  

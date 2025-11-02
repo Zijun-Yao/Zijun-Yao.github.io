@@ -55,7 +55,7 @@ I explore how LLMs can *assist and automate* the scientific workflow.
 
 4. **Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**  
    Yantao Liu\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Xin Lv, Yuchen Fan, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li  
-   *LREC-COLING, 2024.* \[<a href="https://arxiv.org/abs/2405.11876">arXiv:2405.11876</a>\]
+   *LREC-COLING, 2024.* \[<a href="https://arxiv.org/abs/2405.11876">arXiv</a>\]
 
 5. **RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**  
    Yantao Liu, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Rui Min, Yixin Cao, Lei Hou, Juanzi Li  
@@ -63,7 +63,7 @@ I explore how LLMs can *assist and automate* the scientific workflow.
 
 6. **Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking**  
    Xiaokang Zhang\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Jing Zhang, Kaifeng Yun, Jifan Yu, Juanzi Li, Jie Tang  
-   *ACL, 2024.* \[<a href="https://arxiv.org/abs/2405.11874">arXiv:2405.11874</a>\]
+   *ACL, 2024.* \[<a href="https://arxiv.org/abs/2405.11874">arXiv</a>\]
 
 7. **LinguaLens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder**  
    Yi Jing, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Lingxu Ran, Hongzhu Guo, Xiaozhi Wang, Lei Hou, Juanzi Li  
@@ -75,7 +75,7 @@ I explore how LLMs can *assist and automate* the scientific workflow.
 
 9. **Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making**  
    <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang, Zelin Dai  
-   *ACL-IJCNLP, 2021.* \[<a href="https://arxiv.org/abs/2105.14467">arXiv:2105.14467</a>\]
+   *ACL-IJCNLP, 2021.* \[<a href="https://arxiv.org/abs/2105.14467">arXiv</a>\]
 
 <sup>\* Equal contribution</sup>
 
