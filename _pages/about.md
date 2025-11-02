@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University (THU, Sep 2023 – Jun 2026, expected), advised by Prof. Juanzi Li. 
+I am a Ph.D. candidate in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University (THU, Sep 2023 – Jun 2026, expected), advised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/). 
 Before that, I finished my education as a master student in THU-KEG, also advised by Prof. Juanzi Li from Sep 2020 to Jun 2023.
 I received my bachelor's degree in Computer Science and Technology from Beijing University of Posts and Telecommunications (BUPT, Sep 2016 – Jun 2020).
 
 My research sits at the intersection of **large language models (LLMs)**, **knowledge engineering**, and **reasoning**. 
-I have worked as a research intern at Zhipu.AI on building and post-training LLMs, and I was a visiting scholar at the NExT++ Research Centre, National University of Singapore (Mar 2025 – Sep 2025) hosted by Prof. Tat-Seng Chua. 
-Earlier, I spent time in KEG-Tsinghua, Qiyuan Lab, and BUPT on topics spanning knowledge graphs, graph learning, and evolutionary game theory on networks.
+I have worked as a research intern at Zhipu.AI on building and post-training LLMs, where I work closely with Dr. [Xin Lv](https://davidlvxin.github.io/), and I was a visiting scholar at the NExT++ Research Centre, National University of Singapore (Mar 2025 – Sep 2025) hosted by Prof. [Chua Tat-Seng](https://www.chuatatseng.com/). 
+Earlier, I spent time in THU-KEG on graph learning, supervised by Prof. [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
+I also worked with Prof. [Bin Wu](http://web.evolbio.mpg.de/~bin.wu/welcome.html) on evolutionary game theory on graph.
 
 You can find my publications on **[Google Scholar](https://scholar.google.com/citations?user=B4LmHSUAAAAJ)**.
 
