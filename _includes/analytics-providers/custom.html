@@ -1,4 +1,27 @@
 <!-- start custom analytics snippet -->
 <!-- ClustrMaps Visitor Tracking -->
+<style>
+  #clustrmaps-widget, 
+  #clustrmaps-widget-container,
+  iframe[src*="clustrmaps"],
+  div[id*="clustrmaps"],
+  #clstr_globe + * {
+    max-width: 300px !important;
+    max-height: 200px !important;
+    width: 100% !important;
+    height: auto !important;
+    transform: scale(0.6);
+    transform-origin: top left;
+  }
+  
+  /* 针对 ClustrMaps 可能生成的容器 */
+  body > div[id*="clustr"],
+  body > div[id*="clstr"] {
+    max-width: 300px !important;
+    max-height: 200px !important;
+    transform: scale(0.6);
+    transform-origin: top right;
+  }
+</style>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Q44tzpxTZzZybJuLB4OD129zTsz7V6-1J5s58oeo1N4"></script>
 <!-- end custom analytics snippet -->
