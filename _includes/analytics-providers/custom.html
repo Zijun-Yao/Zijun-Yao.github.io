@@ -1,26 +1,42 @@
 <!-- start custom analytics snippet -->
 <!-- ClustrMaps Visitor Tracking -->
 <style>
+  /* ClustrMaps 容器样式 - 居中且缩小 */
   #clustrmaps-widget, 
   #clustrmaps-widget-container,
   iframe[src*="clustrmaps"],
   div[id*="clustrmaps"],
+  a[href*="clustrmaps"],
   #clustrmaps + * {
-    max-width: 300px !important;
-    max-height: 200px !important;
-    width: 100% !important;
+    max-width: 200px !important;
+    max-height: 150px !important;
+    width: 200px !important;
     height: auto !important;
-    transform: scale(0.6);
-    transform-origin: top left;
+    transform: scale(0.5);
+    transform-origin: center;
+    margin: 0 auto !important;
+    display: block !important;
   }
   
   /* 针对 ClustrMaps 可能生成的容器 */
   body > div[id*="clustr"],
   body > div[id*="clstr"] {
-    max-width: 300px !important;
-    max-height: 200px !important;
-    transform: scale(0.6);
-    transform-origin: top right;
+    max-width: 200px !important;
+    max-height: 150px !important;
+    transform: scale(0.5);
+    transform-origin: center;
+    margin: 0 auto !important;
+    display: block !important;
+    text-align: center;
+  }
+  
+  /* 确保包含 ClustrMaps 的父容器居中 */
+  body > div:has(a[href*="clustrmaps"]),
+  body > div:has(iframe[src*="clustrmaps"]) {
+    text-align: center !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
   }
 </style>
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Q44tzpxTZzZybJuLB4OD129zTsz7V6-1J5s58oeo1N4"></script> -->
