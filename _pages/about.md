@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 
+<span style="color: rgb(160,0,0)"><strong>Note:</strong> My main page has been moved to <a href="https://zijun-yao.github.io">zijun-yao.github.io</a>.</span>
+
+
 I am a Ph.D. candidate in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University (THU, Sep 2023 – Jun 2026, expected), advised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/). 
 Before that, I finished my education as a master student in THU-KEG, also advised by Prof. Juanzi Li from Sep 2020 to Jun 2023.
 I received my bachelor's degree in Computer Science and Technology from Beijing University of Posts and Telecommunications (BUPT, Sep 2016 – Jun 2020).
