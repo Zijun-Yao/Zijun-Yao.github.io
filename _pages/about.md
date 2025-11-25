@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-<span style="color: rgb(160,0,0)"><strong>Note:</strong> My main page has been moved to <a href="https://zijun-yao.github.io">zijun-yao.github.io</a>.</span>
 
 
 I am a Ph.D. candidate in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University (THU, Sep 2023 – Jun 2026, expected), advised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/). 
